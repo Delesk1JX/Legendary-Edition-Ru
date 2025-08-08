@@ -1,4 +1,4 @@
-Информация: Перевод квестов модпака Legendary Edition
+Информация: Перевод квестов модпака Legendary Edition (2.15)
 
 Ссылка на сам [модпак](https://www.curseforge.com/minecraft/modpacks/minecraft-legendary-edition)
 

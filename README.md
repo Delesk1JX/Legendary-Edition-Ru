@@ -1,6 +1,6 @@
 Информация: Перевод квестов модпака Legendary Edition
 
-Ссылка на сам модпак
+Ссылка на сам [модпак](https://www.curseforge.com/minecraft/modpacks/minecraft-legendary-edition)
 
 Установка: Пример для Prism Launcher:
 
